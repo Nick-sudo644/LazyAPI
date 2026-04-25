@@ -34,7 +34,7 @@ Minecraft usually tries to process all block changes in a single tick. If you br
 * **Requirements**: [Fabric API](https://modrinth.com/mod/fabric-api)
 * **Side**: Server-side (works in Singleplayer too!)
 
-1. Download the `.jar` from [Modrinth](YOUR_MODRINTH_LINK_HERE).
+1. Download the `.jar` from [Modrinth](https://modrinth.com/mod/lazyapi).
 2. Drop it into your `mods` folder.
 3. Launch and enjoy the speed.
 
