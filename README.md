@@ -2,7 +2,7 @@
 
 **LazyAPI** is a high-performance, server-side Fabric mod designed to eliminate lag spikes caused by massive block updates. Whether it's a 10,000-block TNT explosion or a huge `/fill` command, LazyAPI ensures your game stays fluid.
 
-Optimized specifically with **Apple Silicon M4** performance in mind, but compatible with all modern hardware.
+High performance across all architectures.
 
 ---
 
